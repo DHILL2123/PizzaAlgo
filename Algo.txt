@@ -1,0 +1,11 @@
+Decide which pizza company to order from
+Decide what type of pizza you would like
+Decide delivery or pickup 
+Decided on delivery
+Pay for the pizza 
+Wait for delivery
+Delivery option is delayed due to traffic
+Offered half price pizza for pick up 
+Continue to wait or go pick up pizza
+Decided to wait 3o minutes
+Pizza still delayed decided to drive to get pizza
